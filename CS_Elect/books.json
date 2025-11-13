@@ -1,0 +1,164 @@
+{
+    "books": [
+        {
+            "idBooks": 1,
+            "idAuthors": 1,
+            "idPublishers": 1,
+            "titleBooks": "Re:Zero Starting Life in Another World",
+            "genreBooks": "Fantasy",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 2,
+            "idAuthors": 2,
+            "idPublishers": 2,
+            "titleBooks": "Sword Art Online",
+            "genreBooks": "Sci-Fi",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 3,
+            "idAuthors": 3,
+            "idPublishers": 1,
+            "titleBooks": "The Rising of the Shield Hero",
+            "genreBooks": "Fantasy",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 4,
+            "idAuthors": 4,
+            "idPublishers": 1,
+            "titleBooks": "No Game No Life",
+            "genreBooks": "Fantasy",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 5,
+            "idAuthors": 5,
+            "idPublishers": 3,
+            "titleBooks": "Overlord",
+            "genreBooks": "Dark Fantasy",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 6,
+            "idAuthors": 6,
+            "idPublishers": 4,
+            "titleBooks": "That Time I Got Reincarnated as a Slime",
+            "genreBooks": "Isekai",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 7,
+            "idAuthors": 7,
+            "idPublishers": 5,
+            "titleBooks": "Konosuba",
+            "genreBooks": "Comedy Fantasy",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 8,
+            "idAuthors": 8,
+            "idPublishers": 2,
+            "titleBooks": "Toradora",
+            "genreBooks": "Romance",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 9,
+            "idAuthors": 9,
+            "idPublishers": 2,
+            "titleBooks": "Spice and Wolf",
+            "genreBooks": "Fantasy",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 10,
+            "idAuthors": 10,
+            "idPublishers": 5,
+            "titleBooks": "The Melancholy of Haruhi Suzumiya",
+            "genreBooks": "Sci-Fi",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 11,
+            "idAuthors": 11,
+            "idPublishers": 2,
+            "titleBooks": "A Certain Magical Index",
+            "genreBooks": "Action Fantasy",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 12,
+            "idAuthors": 12,
+            "idPublishers": 6,
+            "titleBooks": "Monogatari Series",
+            "genreBooks": "Mystery",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 13,
+            "idAuthors": 13,
+            "idPublishers": 2,
+            "titleBooks": "86 Eighty Six",
+            "genreBooks": "Dystopian",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 14,
+            "idAuthors": 14,
+            "idPublishers": 1,
+            "titleBooks": "Mushoku Tensei",
+            "genreBooks": "Isekai",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 15,
+            "idAuthors": 15,
+            "idPublishers": 7,
+            "titleBooks": "The Apothecary Diaries",
+            "genreBooks": "Historical Mystery",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 16,
+            "idAuthors": 16,
+            "idPublishers": 1,
+            "titleBooks": "Classroom of the Elite",
+            "genreBooks": "Psychological",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 17,
+            "idAuthors": 17,
+            "idPublishers": 5,
+            "titleBooks": "Hyouka",
+            "genreBooks": "Mystery",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 18,
+            "idAuthors": 18,
+            "idPublishers": 6,
+            "titleBooks": "Seraph of the End: Guren Ichinose",
+            "genreBooks": "Fantasy",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 19,
+            "idAuthors": 19,
+            "idPublishers": 2,
+            "titleBooks": "Alderamin on the Sky",
+            "genreBooks": "Military Fantasy",
+            "Bookscol": "Volume 1"
+        },
+        {
+            "idBooks": 20,
+            "idAuthors": 20,
+            "idPublishers": 3,
+            "titleBooks": "The Saga of Tanya the Evil",
+            "genreBooks": "Military Fantasy",
+            "Bookscol": "Volume 1"
+        }
+    ]
+}

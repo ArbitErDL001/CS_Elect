@@ -1,0 +1,142 @@
+<books>
+  <book idBooks="1">
+    <idAuthors>1</idAuthors>
+    <idPublishers>1</idPublishers>
+    <titleBooks>Re:Zero Starting Life in Another World</titleBooks>
+    <genreBooks>Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="2">
+    <idAuthors>2</idAuthors>
+    <idPublishers>3</idPublishers>
+    <titleBooks>Sword Art Online</titleBooks>
+    <genreBooks>Sci-Fi</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="3">
+    <idAuthors>3</idAuthors>
+    <idPublishers>3</idPublishers>
+    <titleBooks>The Rising of the Shield Hero</titleBooks>
+    <genreBooks>Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="4">
+    <idAuthors>4</idAuthors>
+    <idPublishers>4</idPublishers>
+    <titleBooks>No Game No Life</titleBooks>
+    <genreBooks>Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="5">
+    <idAuthors>5</idAuthors>
+    <idPublishers>5</idPublishers>
+    <titleBooks>Overlord</titleBooks>
+    <genreBooks>Dark Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="6">
+    <idAuthors>6</idAuthors>
+    <idPublishers>6</idPublishers>
+    <titleBooks>That Time I Got Reincarnated as a Slime</titleBooks>
+    <genreBooks>Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="7">
+    <idAuthors>7</idAuthors>
+    <idPublishers>7</idPublishers>
+    <titleBooks>Konosuba</titleBooks>
+    <genreBooks>Comedy Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="8">
+    <idAuthors>8</idAuthors>
+    <idPublishers>8</idPublishers>
+    <titleBooks>Toradora</titleBooks>
+    <genreBooks>Romance</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="9">
+    <idAuthors>9</idAuthors>
+    <idPublishers>9</idPublishers>
+    <titleBooks>Spice and Wolf</titleBooks>
+    <genreBooks>Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="10">
+    <idAuthors>10</idAuthors>
+    <idPublishers>10</idPublishers>
+    <titleBooks>The Melancholy of Haruhi Suzumiya</titleBooks>
+    <genreBooks>Sci-Fi</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="11">
+    <idAuthors>11</idAuthors>
+    <idPublishers>11</idPublishers>
+    <titleBooks>A Certain Magical Index</titleBooks>
+    <genreBooks>Action Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="12">
+    <idAuthors>12</idAuthors>
+    <idPublishers>12</idPublishers>
+    <titleBooks>Monogatari Series</titleBooks>
+    <genreBooks>Mystery</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="13">
+    <idAuthors>13</idAuthors>
+    <idPublishers>13</idPublishers>
+    <titleBooks>86 Eighty Six</titleBooks>
+    <genreBooks>Dystopian</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="14">
+    <idAuthors>14</idAuthors>
+    <idPublishers>14</idPublishers>
+    <titleBooks>Mushoku Tensei</titleBooks>
+    <genreBooks>Isekai</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="15">
+    <idAuthors>15</idAuthors>
+    <idPublishers>15</idPublishers>
+    <titleBooks>The Apothecary Diaries</titleBooks>
+    <genreBooks>Historical Mystery</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="16">
+    <idAuthors>16</idAuthors>
+    <idPublishers>16</idPublishers>
+    <titleBooks>Classroom of the Elite</titleBooks>
+    <genreBooks>Psychological</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="17">
+    <idAuthors>17</idAuthors>
+    <idPublishers>17</idPublishers>
+    <titleBooks>Hyouka</titleBooks>
+    <genreBooks>Mystery</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="18">
+    <idAuthors>18</idAuthors>
+    <idPublishers>18</idPublishers>
+    <titleBooks>Seraph of the End: Guren Ichinose</titleBooks>
+    <genreBooks>Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="19">
+    <idAuthors>19</idAuthors>
+    <idPublishers>19</idPublishers>
+    <titleBooks>Alderamin on the Sky</titleBooks>
+    <genreBooks>Military Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+  <book idBooks="20">
+    <idAuthors>20</idAuthors>
+    <idPublishers>20</idPublishers>
+    <titleBooks>RThe Saga of Tanya the Evil</titleBooks>
+    <genreBooks>Military Fantasy</genreBooks>
+    <Bookscol>Volume 1</Bookscol>
+  </book>
+</books>
